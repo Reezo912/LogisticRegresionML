@@ -1,1 +1,1 @@
-["default_n", "previous", "campaign", "euribor3m", "cons.price.idx", "emp.var.rate", "nr.employed"]
+["emp.var.rate", "euribor3m", "pdays", "previous", "nr.employed", "poutcome_nonexistent", "poutcome_success"]
